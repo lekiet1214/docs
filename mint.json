@@ -25,10 +25,16 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "api-reference"
+      "url": "api-reference/introduction"
     }
   ],
   "navigation": [
+    {
+      "group": "Introduction",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
     {
       "group": "API Reference",
       "pages": [
